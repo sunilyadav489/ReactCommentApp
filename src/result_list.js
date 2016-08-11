@@ -18,9 +18,9 @@ class ResultList extends Component {
 
       return (
         <div>
-          <ul className="media-list">
+          <div className="media-list">
             {results}
-          </ul>
+          </div>
           <br/>
           <AddComment/>
         </div>

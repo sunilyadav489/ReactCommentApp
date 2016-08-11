@@ -1,0 +1,16 @@
+
+/*comment component*/
+.links-post {
+    border-top: 1px solid #ddd;
+    padding: 9px;
+    background: rgb(246, 247, 248);
+}
+.link-post, .link-post:hover {
+    font-weight: bold;
+    padding: 0 5px;
+    color: rgb(127, 127, 127);
+}
+.media-left a.image-post {
+    width: 50px;
+    display: block;
+}
